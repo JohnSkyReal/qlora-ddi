@@ -1,0 +1,9 @@
+datasets
+loralib==0.1.1
+sentencepiece==0.1.99
+git+https://github.com/huggingface/transformers.git
+accelerate==0.21.0
+bitsandbytes==0.40.2
+git+https://github.com/huggingface/peft.git
+gradio
+appdirs
